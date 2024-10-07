@@ -1,4 +1,4 @@
 /* Targeting the specific div and applying the custom color */
 ._elevio_title._9sg1e._elevio_articlelink_title > div {
-    color: #68489b !important; /* The !important ensures the color is applied even if other styles override it */
+    color: #68489b !important;
 }
